@@ -1,0 +1,166 @@
+ 
+@media screen and (max-width:980px) {
+   .sarlavha {
+        margin: auto;
+       font-size: 15px;
+       text-align: left;
+   }
+     .sarlavha1 {
+     margin: auto;
+     font-size: 8px;
+     text-align: left;
+     opacity: 0.5;
+     margin-top:4px ;
+    }
+    p {
+        opacity: 0.5;
+        font-size: 8px;
+    }
+    .ism {
+        width: 90%;
+        margin-top: 5px;
+        border: 1px solid black;
+        border-radius: 3px;
+      }
+      .familiya {
+        width: 90%;
+        margin-top: 5px;
+        border-radius: 3px;
+        border: 1px solid black;
+       }
+       .manzil {
+        width: 90%;
+        margin-top: 5px;
+        border: 1px solid black;
+        border-radius: 3px;
+      }
+      .parol {
+        width: 90%;
+        margin-top: 5px;
+        border: 1px solid black;
+        border-radius: 3px;
+      }
+      .oldi {
+        width: 20%;
+    }
+     .orta {
+         width: 40%;
+     }
+     .oxiri {
+         width: 28%;
+     }
+     label {
+         font-size: 13px
+     }
+     .tugma {
+        width: 50%;
+        margin-top: 5px;
+        border: 1px solid black;
+        border-radius: 3px;
+        font-size: 15px;
+        margin-left: 20%;
+      }
+}
+
+@media screen and (min-width:980px) {
+    .sarlavha {
+        margin: auto;
+       font-size: 35px;
+       text-align: left;
+   }
+   .sarlavha1 {
+    margin: auto;
+    font-size: 28px;
+    text-align: left;
+    opacity: 0.5;
+    margin-top:10px ;
+   }
+   .ism {
+    width: 43%;
+    padding: 15px;
+    float: left;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.familiya {
+    width: 43%;
+    padding: 15px;
+    float: right;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.manzil {
+    width: 94%;
+    padding: 15px;
+    float: left;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.parol {
+    width: 94%;
+    padding: 15px;
+    float: left;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.oldi {
+    width: 10%;
+}
+ .orta {
+     width: 40%;
+ }
+ .oxiri {
+     width: 28%;
+ }
+ select {
+     font-size: 24px;
+ }
+ label {
+    font-size: 35px
+}
+p {
+    opacity: 0.5;
+}
+.tugma {
+    width: 50%;
+    padding: 15px;
+    float: center;
+    margin-top: 10px;
+    margin-left: 20%;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 30px;
+}
+}
+
+form {
+    max-width: 50%;
+    border: white 0px solid;
+    margin: auto;
+    background-color:none;
+    position: relative;
+    border-radius: 10px;
+}
+fieldset {
+   border: white;
+   border: solid 0px black;
+   margin: auto;
+   background-color:none;
+   position: relative;
+   width:80%;
+}
+.tugma {
+    background-color: rgb(35, 207, 35);
+    color:white;
+}
+body {
+    background-color: rgb(228, 235, 228);
+}
